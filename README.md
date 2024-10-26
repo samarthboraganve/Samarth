@@ -11,8 +11,6 @@
 
 - 👯 Open For **Collaboration**
 
-- 🤝 I’m looking for job on **Full Stack Web Development OR Data Structure and Applications**
-
 - 👨‍💻 All of my projects are available at [https://github.com/samarthboraganve](https://github.com/samarthboraganve)
 
 - 💬 Ask me about **Anything, I Am happy to Help**
