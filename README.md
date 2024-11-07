@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthboraganve&label=Profile%20views&color=0e75b6&style=flat" alt="samarthboraganve" /> </p>
 
-- 🌱 I’m currently learning **Data Structure and Applications,Full-Stack(MERN) Web Developer.**
+- 🌱 I’m currently learning **Data Structure and Algorithm,Full-Stack(MERN) Web Developer.**
 
 - 👯 Open For **Collaboration**
 
