@@ -1,13 +1,13 @@
 [![MasterHead](https://cdn.buttercms.com/zLnTfXaDQw2Oi5Y08D0p)]
 
 <h1 align="center">Hi 👋, I'm Samarth Boraganve</h1>
-<h3 align="center">Full-Stack Web Developer || DSA || Coding Enthusiasts || Passionate about Software Technologies</h3>
+<h3 align="center">MERN Stack Developer || DSA || Coding Enthusiasts || Passionate about Software Technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthboraganve&label=Profile%20views&color=0e75b6&style=flat" alt="samarthboraganve" /> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithm,Full-Stack(MERN) Web Developer.**
+- 🌱 I’m currently learning **Data Structure and Algorithm,MERN Stack Developer.**
 
 - 👯 Open For **Collaboration**
 
